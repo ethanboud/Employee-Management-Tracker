@@ -17,6 +17,7 @@ Download the files and open the terminal at the "employee-db-manager" level.
 
 ## Usage
 In the terminal, type "node index.js" to start the application. Use the arrow keys to navigate the menu and hit enter to use each option provided. 
+https://drive.google.com/file/d/16W_JSw3ajtfD9kvT8w27LTj28t_mEt6b/view?usp=drive_link
 
 ## Contribution
 Feel free to adjust and tweak the source code to your needs, additional functionality can be implemented with TLC.
